@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   html {
-    background: linear-gradient(125deg, orange,blue, yellow);
+    background: linear-gradient(125deg, #e34c26, #264de4,#F0DB4F);
     min-height: 100vh;
     font-family: "Ubuntu", sans-serif;
   }
