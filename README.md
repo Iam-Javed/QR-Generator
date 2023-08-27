@@ -28,5 +28,5 @@ Check out the live demo [here](https://iam-javed.github.io/QR-Generator).
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit pull requests or report issues [here](https://github.com/your-username/qr-generator/issues).
+Contributions are welcome! Feel free to submit pull requests or report issues [here](https://github.com/Iam-Javed/qr-generator/issues).
 
