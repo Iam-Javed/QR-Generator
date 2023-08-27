@@ -9,7 +9,7 @@ This is a simple QR code generator built using HTML, CSS, and JavaScript. It all
 
 ## Demo
 
-Check out the live demo [here](https://your-demo-link.com).
+Check out the live demo [here](https://iam-javed.github.io/QR-Generator).
 
 ## Usage
 
